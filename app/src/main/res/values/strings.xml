@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">캡스톤2</string>
+
+    <string name="plastic1">1) 종류 </string>
+    <string name="plastic11">
+    ≡ PET병류 : 음료수병(주스, 콜라, 생수병 등), 간장병, 식용유병 등. \n
+    ≡ 합성수지 용기류 : 각종 음식료 용기류, 야쿠르트병, 샴푸·세제용기류, 막걸리통, 물통, 우유통 \n
+    ≡ 일반 가정생활용품류 : 쓰레기통, 쓰레받이, 물바가지, 머리빗, 바구니 등 \n
+    ≡ 기타 용기류 : 맥주, 콜라, 사이다 등, 주류·음료수 상자</string>
+    <string name="plastic2">2) 분리배출요령 </string>
+    <string name="plastic22">
+    ≡ 뚜껑을 제거한 후, 내용물을 비우고 물로 한번 헹구어 배출한다. \n
+    ≡ 가능한 압착하여 부피를 축소한다. \n
+    ≡ 알루미늄 뚜껑은 고철로 분리 배출한다. \n
+    ≡ 용기표면에 재질분류 표시 1,2,3,4,5,6번으로 표시된 플라스틱 제품에 한하여 배출한다.</string>
+    <string name="plastic3">3) 주의사항 </string>
+    <string name="plastic33">
+    ≡ 재활용이 어려운 다음의 플라스틱 제품은 제외한다. \n
+    ≡ 열에 잘 녹지 않는 플라스틱용기 : 전화기, 소켓, 다리미, 냄비의 손잡이, 전기전열기, 단추, 화장품 용기, 식기류, 재떨이, 쟁반 등 \n
+    ≡ PVC류 용기 : 파이프, 빗물홈통, 장판, 전선 등 \n
+    ≡ 복합재질 용기 : 과자, 라면봉지, 식품포장 용기 등 \n
+    ≡ 기타 재활용 경제성이 없는 용기 : 가전제품 케이스, 함지박, 정화조, 비닐봉지, 볼펜 등 필기구, 1회용품 등 \n
+    ≡ 플라스틱과 철사가 합성되어 있는 제품류(옷걸이 등) \n
+    ≡ 용기표면 재질분류표시 3,7번으로 표시된 플라스틱 제품</string>
+
+    <string name="can1">1) 종류 </string>
+    <string name="can11">맥주캔, 음료수캔, 통조림캔, 분유통, 과자통, 에어로졸, 부탄가스통, 살충제통, 면도통, 거품통.</string>
+    <string name="can2">2) 분리배출요령 </string>
+    <string name="can22">⼘내용물을 깨끗이 비우고 물로 한 번 헹군 후 발로 밟아 납작하게 하여 배출한다. \n
+    ≡ 에어로졸, 부탄가스통, 살충제통 등은 가급적 캔 몸통에 구멍을 뚫어 내용물을 비운 후 배출한다. </string>
+    <string name="can3">3) 주의사항 </string>
+    <string name="can33">≡ 캔 속에 담배꽁초나 휴지 등 이물질이 들어가지 않도록 한다. \n
+    ≡ 과자나, 사탕, 깡통의 속뚜껑과 겉뚜껑으로 쓰이는 알루미늄박이나 플라스틱을 제거하고 배출한다. </string>
+
+    <string name="metal1">1) 종류 </string>
+    <string name="metal11">공기구, 철사, 못, 철판 등 쇠붙이(소철), 양은, 스텐류, 구리, 알루미늄 샤시 등 (비철금속)</string>
+    <string name="metal2">2) 분리배출요령 </string>
+    <string name="metal22">식기류나 공구류에 붙어 있는 고무, 플라스틱 등 이물질을 제거한 후 가급적 부피를 줄여 묶거나 재활용 봉투에 넣어 배출한다.</string>
+    <string name="metal3">3) 주의사항 </string>
+    <string name="metal33">≡ 캔 속에 담배꽁초나 휴지 등 이물질이 들어가지 않도록 한다. \n
+    ≡ 과자나, 사탕, 깡통의 속뚜껑과 겉뚜껑으로 쓰이는 알루미늄박이나 플라스틱을 제거하고 배출한다. </string>
+
+    <string name="glass1">1) 종류 </string>
+    <string name="glass11">맥주·소주·음료수병, 드링크병, 약병, 기타 내용물을 담은 유리병, 농약병 및 각종 유리용기류.</string>
+    <string name="glass2">2) 분리배출요령 </string>
+    <string name="glass22">⼘플라스틱이나 알루미늄으로 된 뚜껑은 가급적 병목에 부착되어 있는 알루미늄 테까지 제거한 후 배출한다.\n
+    ≡ 병 속에 담배꽁초나 종이류 등 기타 이물질을 깨끗이 제거한 후 배출한다. \n
+    ≡ 맥주, 소주, 청량 음료병은 공병보증금제도의 실시로 슈퍼나 상점에서 보증금(40원∼50원)을 받고 교환한다.</string>
+    <string name="glass3">3) 주의사항 </string>
+    <string name="glass33">≡ 유리병중 유백색의 유리병은 재활용되지 않는다. \n
+    ≡ 거울, 깨진 유리, 도자기류, 내열식기류, 형광등, 전구 등도 재활용되지 않는다. \n
+    ≡ 농약 빈 병은 내용물을 완전히 사용한 후 다른 병류와 섞이지 않게 따로 마대에 모아 배출한다. (한국자원재생공사에서 ㎏ 당 150원의 보증금을 주고 수거)</string>
+
+    <string name="paper1">1) 신문지 </string>
+    <string name="paper11">① 종류</string>
+    <string name="paper111">일간지, 주간지, 생활정보지 등</string>
+    <string name="paper12">② 분리배출요령</string>
+    <string name="paper122">신문지 종류로만 따라 모아 한 번 접어 30㎝정도의 높이로 묶어 보관·배출한다. (비닐코팅이 되지 않은 전단지는 섞여도 무관하다.)</string>
+    <string name="paper13">③ 주의사항</string>
+    <string name="paper133">≡ 비나 물에 젖지 않도록 한다. \n
+    ≡ 비닐 코팅이 된 광고전단지가 석이지 않도록 한다. (전단지를 찢어 보았을 때 비닐이 뜯어져 나오는 종이가 비닐 코팅지)</string>
+    <string name="paper2">2) 잡지·서적류 </string>
+    <string name="paper21">① 종류</string>
+    <string name="paper211">헌책, 헌 공책, 월간지, 주간지 등</string>
+    <string name="paper22">② 분리배출요령</string>
+    <string name="paper222">30㎝정도로 묶어서 보관·배출한다.</string>
+    <string name="paper23">③ 주의사항</string>
+    <string name="paper233">≡ 비닐코팅이 된 잡지류는 표지의 제외한다. \n
+    ≡ 노트의 스프링이나 철판, 테이프 등 종이 이외의 물질은 분리하여 배출한다.</string>
+    <string name="paper3">3) 상자류 </string>
+    <string name="paper31">① 종류</string>
+    <string name="paper311">화장품상자, 과자상자, 과일상자, 가전제품 포장재 등</string>
+    <string name="paper32">② 분리배출요령</string>
+    <string name="paper322">납작하게 눌러 부피를 줄인 후 운반하기 쉬운 크기로 묶어 보관·배출한다.</string>
+    <string name="paper33">③ 주의사항</string>
+    <string name="paper333">≡ 상자에 붙어있는 비닐테이프, 철판 등 이물질을 제거한다. \n
+    ≡ 기름이나 초 먹인 포장재는 재생이 안되므로 제외한다.</string>
+    <string name="paper4">4) 종이팩 </string>
+    <string name="paper41">① 종류</string>
+    <string name="paper411">우유팩, 음료수 팩, 1회용 종이컵</string>
+    <string name="paper42">② 분리배출요령</string>
+    <string name="paper422">내용물을 비우고 물로 한번 헹군 후 납작하게 눌러 봉투에 넣거나 한데 묶어서 보관·배출한다. (그대로 말린 후 납작하게 눌러 묶어서 보관한다)</string>
+    <string name="paper43">③ 주의사항</string>
+    <string name="paper433">≡ 다른 종이류와 섞이지 않도록 별도의 분리 수거함을 마련토록 한다. \n
+    ≡ 우유팩이나 음료수팩 중 장기 보존용인 테트라팩은 재생이 안되므로 제외한다.</string>
+    <string name="paper5">5) 기타 종이류 </string>
+    <string name="paper51">① 종류</string>
+    <string name="paper511">복사지, 사무용지, 청구서, 광고전단, 각종 포장지, 종이 쇼핑 백, 달력 등</string>
+    <string name="paper52">② 분리배출요령</string>
+    <string name="paper522">물이나 오물에 젖지 않게 모아 30㎝정도로 묶어 보관·배출한다.</string>
+    <string name="paper53">③ 주의사항</string>
+    <string name="paper533">≡ 비닐코팅지나 쇼핑백의 비닐끈, 비닐덮개, 달력 스프링 등을 제거한 후 보관한다. \n
+    ≡ 벽지, 나염지, 인화지(사진)는 제외한다.</string>
+
+    <string name="styro1">1) 분리배출요령</string>
+    <string name="styro11">≡ 이물질 및 라벨을 완전히 제거한 후 투명비닐 속에 넣거나 묶어서 배출 \n
+    ≡ 과일, 생선상자 등은 잔재물을 비우고 물로 헹구어 배출</string>
+    <string name="styro2">2) 주의사항</string>
+    <string name="styro22">≡ 컵라면 용기, 1회용 용기, 폐부자와 이물질이 묻어 있거나 타재질로 코팅된 것은 제외 \n
+    ≡ 폐스티로폴이 바람이 흩날리지 않도록 별도 분리 수거 용기 설치 운영 </string>
+
+</resources>
