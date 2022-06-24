@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         btnCamera.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), GuideHome.class);
+                Intent intent = new Intent(getApplicationContext(), ClassifierActivity.class);
                 startActivity(intent);
             }
         });

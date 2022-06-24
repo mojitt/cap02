@@ -34,27 +34,27 @@
 
             <Button
                 android:id="@+id/camerabtn"
-                android:layout_width="250dp"
+                android:layout_width="270dp"
                 android:layout_height="90dp"
                 android:layout_marginBottom="20dp"
                 android:background="@drawable/shape"
                 android:backgroundTint="@color/white"
                 android:drawableLeft="@drawable/ic_baseline_photo_camera_24"
                 android:paddingLeft="15dp"
-                android:text="촬영하여 가이드"
+                android:text="쓰레기 분류하기"
                 android:textSize="25dp"
                 android:alpha="0.8"/>
 
             <Button
                 android:id="@+id/guidebtn"
-                android:layout_width="250dp"
+                android:layout_width="270dp"
                 android:layout_height="90dp"
                 android:layout_marginBottom="20dp"
                 android:background="@drawable/shape"
                 android:backgroundTint="@color/white"
                 android:drawableLeft="@drawable/ic_baseline_sticky_note_2_24"
                 android:paddingLeft="15dp"
-                android:text="직접 찾아보기"
+                android:text="분리수거가이드북"
                 android:textSize="25dp"
                 android:alpha="0.8"/>
 
