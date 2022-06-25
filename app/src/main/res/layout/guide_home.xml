@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
     <ImageView
@@ -15,7 +16,7 @@
     <TabHost
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@android:id/tabhost"
+        android:id="@+id/tabhost"
         android:layout_weight="1">
 
         <LinearLayout
@@ -258,6 +259,30 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:id="@+id/content2">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/main_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton
+                            android:id="@+id/main_write_button"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="end|bottom"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentEnd="true"
+                            android:backgroundTint="#717dff"
+                            android:src="@drawable/ic_baseline_mode_edit_24"
+                            android:layout_margin="8dp"
+                            android:contentDescription="@string/todo" />
+
+                    </RelativeLayout>
                 </LinearLayout>
 
             </FrameLayout>

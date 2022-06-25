@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">캡스톤2</string>
+    <string name="app_name">쓰레기 분리배출</string>
 
     <string name="plastic1">1) 종류 </string>
     <string name="plastic11">
@@ -115,5 +115,7 @@
         <item>CPU</item>
         <item>GPU</item>
     </string-array>
+
+    <string name="todo">TODO</string>
 
 </resources>

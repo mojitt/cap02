@@ -1,7 +1,7 @@
-can01
-glass01
-paper01
-pet01
+can
+glass
+paper
+pet
 plastic
-styrofoam01
+styrofoam
 vinyl
